@@ -83,3 +83,5 @@ plt.xlabel('Température')
 
 axs[0].legend()
 axs[1].legend()
+
+plt.show()
